@@ -10,7 +10,8 @@ const config = {
     place: '福生・ポプルスガレージ',
     content: '双葉湊音オンリー即売会',
     twitterId: 'futabastep'
-  }
+  },
+  shouldShowNectaritionLogo: true
 }
 
 export default config
