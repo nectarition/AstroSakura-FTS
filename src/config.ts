@@ -11,7 +11,7 @@ const config = {
     content: '双葉湊音オンリー即売会',
     twitterId: 'futabastep'
   },
-  shouldShowNectaritionLogo: false
+  shouldShowNectaritionLogo: true
 }
 
 export default config
