@@ -2,7 +2,7 @@ const config = {
   siteUrl: 'https://futabastep.net',
   copyright: {
     year: 2023,
-    author: 'Nectarition Blossom'
+    author: 'Nectarition'
   },
   event: {
     name: 'ふたばすてっぷ',
