@@ -1,5 +1,5 @@
 const config = {
-  siteUrl: 'https://draft.futabastep.net',
+  siteUrl: 'https://futabastep.net',
   copyright: {
     year: 2023,
     author: 'Nectarition'
